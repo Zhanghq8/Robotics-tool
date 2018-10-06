@@ -100,6 +100,9 @@ Jq=[Jv1(1,1),Jv2(1,1),Jv3(1,1),Jv4(1,1),Jv5(1,1),Jv6(1,1);
     Jw1(2,1),Jw2(2,1),Jw3(2,1),Jw4(2,1),Jw5(2,1),Jw6(2,1);
     Jw1(3,1),Jw2(3,1),Jw3(3,1),Jw4(3,1),Jw5(3,1),Jw6(3,1)];
 
+%%% Determinant of Jacobian Matrix
+Dj=det(Jq);
+
 %%%  A Matrix Function
 function A = DHmatrix(i)
 
