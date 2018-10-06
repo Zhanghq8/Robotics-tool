@@ -1,2 +1,3 @@
 # Robotics-tool
-Calculate Forward Kinematics, Jacobian Matrix
+Matlab code for calculating Forward Kinematics, Jacobian Matrix
+Matlab Version: 2018(a)
